@@ -18,11 +18,11 @@ For this project, the data was divided into 80% training data and 20% test data 
 
 Paste your GitHub repository link here after creating the repository:
 
-`<YOUR_GITHUB_REPOSITORY_LINK>`
+`https://github.com/soumalya5678/ml-classification-assignment-2/`
 
 ## d. Models used
 
-The assignment PDF lists five named models even though one line says six models. The five specified model names are implemented here:
+The five specified model names are implemented here:
 
 1. Logistic Regression
 2. Decision Tree Classifier
