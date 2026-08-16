@@ -18,7 +18,7 @@ For this project, the data was divided into 80% training data and 20% test data 
 
 Paste your GitHub repository link here after creating the repository:
 
-`https://github.com/soumalya5678/ml-classification-assignment-2/`
+`<https://github.com/soumalya5678/ml-classification-assignment-2/>`
 
 ## d. Models used
 
@@ -65,7 +65,7 @@ The Streamlit app provides:
 
 Paste the deployed Streamlit Community Cloud link here:
 
-`<YOUR_STREAMLIT_APP_LINK>`
+`<https://ml-classification-assignment-2-bpcy3kdztwxecpq9orbzeg.streamlit.app/>`
 
 ## Files in the repository
 
