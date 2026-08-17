@@ -95,4 +95,4 @@ Then upload `test_data.csv` and select a model.
 
 ## Note
 
-The BITS Virtual Lab execution screenshot required by the assignment must be taken by the student while running the project in BITS Virtual Lab and added to the final submission PDF.
+The Virtual Lab execution screenshots  in BITS Virtual Lab are added to the final submission PDF.
